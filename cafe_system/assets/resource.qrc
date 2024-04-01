@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="assets">
+    <file>cafe_system\icon.png</file>
+  </qresource>
+</RCC>

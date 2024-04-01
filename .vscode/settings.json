@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./cafe_system/admin/bdRequests",
+        "./cafe_system/admin"
+    ]
+}
